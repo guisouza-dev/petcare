@@ -450,6 +450,7 @@ html {
     line-height: 20px;
     color: #808080;
     margin-left: 20px;
+    outline: none;
 }
 
 .footer_copyright {
