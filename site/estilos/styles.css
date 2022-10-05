@@ -10,6 +10,7 @@
 html {
     font-family: var(--fonte-002);
     background-color: #F3F6FB;
+    scroll-behavior: smooth;
 }
 
 #apresentacao {
@@ -162,7 +163,7 @@ html {
     margin-top: 35px;
 }
 
-.testimonial {
+#testimonial {
     -webkit-box-shadow: 0px 4px 13px 0px rgba(50,32,206,0.5);
     -moz-box-shadow: 0px 4px 13px 0px rgba(50,32,206,0.5);
     box-shadow: 0px 4px 13px 0px rgba(50,32,206,0.5);
